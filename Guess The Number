@@ -1,3 +1,7 @@
+'''
+A mini project Guess the number.
+
+
 import random
 print("Choose the difficulty level :")
 print("For Easy press 1")
